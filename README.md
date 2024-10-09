@@ -8,4 +8,4 @@ This is a Login page project created with React Native libraries, using NativeWi
 - React Native Reanimated
 - NativeWind
 
-![]('../MyProjj/src/assets/Sign.gif')
+![Project GIF]('./assets/Sign.gif')
