@@ -8,4 +8,5 @@ This is a Login page project created with React Native libraries, using NativeWi
 - React Native Reanimated
 - NativeWind
 
-![Project GIF](../MyProjj/src/assets/Sign.gif)
+# PROJECT GIF
+![Project GIF](./src/assets/Sign.gif)
